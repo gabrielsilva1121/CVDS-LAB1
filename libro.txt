@@ -1,0 +1,10 @@
+----------------------- libro.txt -----------------------
+EL LIBRO MAS FAMOSO DEL MUNDO
+AUTORES: GabrielSilva
+
+CAPITULO UNO
+
+CAPITULO DOS
+
+CAPITULO TRES
+---------------------------------------------------------
