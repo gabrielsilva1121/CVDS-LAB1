@@ -1,6 +1,6 @@
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
-AUTORES: GabrielSilva
+AUTORES: GabrielSilva y Santiago
 
 CAPITULO UNO
 
